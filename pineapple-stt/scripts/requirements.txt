@@ -1,0 +1,11 @@
+# Pineapple STT — Python dependencies
+# These are also auto-installed on first run of pineapple_stt.py
+
+faster-whisper>=0.10.0
+pyaudio>=0.2.14
+webrtcvad-wheels>=2.0.10
+numpy>=1.24.0
+sounddevice>=0.4.6
+pyperclip>=1.8.2
+colorama>=0.4.6
+pynput>=1.7.6
